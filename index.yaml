@@ -3,11 +3,11 @@ entries:
   aldi-react:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2021-11-11T17:58:38.8978206-03:00
+    created: 2021-11-11T18:47:38.6493043-03:00
     description: A Helm chart for Kubernetes
     digest: eebca74454940638c386404879f0180779ea2747da868abeb1cbbf208ec0648f
     name: aldi-react
     urls:
-    - charts/aldi-react-0.1.0.tgz
+    - https://aquiros-modus.github.io/helmcharts/charts%5C/aldi-react-0.1.0.tgz
     version: 0.1.0
-generated: 2021-11-11T17:58:38.8957834-03:00
+generated: 2021-11-11T18:47:38.6493043-03:00
