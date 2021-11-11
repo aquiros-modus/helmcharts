@@ -8,6 +8,6 @@ entries:
     digest: eebca74454940638c386404879f0180779ea2747da868abeb1cbbf208ec0648f
     name: aldi-react
     urls:
-    - https://aquiros-modus.github.io/helmcharts/charts%5C/aldi-react-0.1.0.tgz
+    - https://aquiros-modus.github.io/helmcharts/aldi-react-0.1.0.tgz
     version: 0.1.0
 generated: 2021-11-11T18:47:38.6493043-03:00
